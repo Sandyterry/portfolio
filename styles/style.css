@@ -1,0 +1,117 @@
+ul{
+    background-color: rgb(209, 168, 247);
+
+    height: 30px;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.imgentete{
+    background-image: url(../images/holographic-white-background-iridescent-frame-abstract-design-vector_53876-157574.jpg);
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+}
+.hello{
+    font-size: large;
+    font-family: 'Lucida Grande';
+    font-weight: 100;
+    color: black;
+}
+.home{
+    color: rgb(245, 243, 247);
+    justify-content: left;
+    font-size: larger;
+    font-weight: 1000;
+   font-family: 'Lucida Grande';
+   font-style: oblique;
+}
+
+.home:hover{
+    color: black;
+    text-decoration: underline ;color: black;
+}
+
+.projects{
+    color: rgb(245, 243, 247);
+    justify-content: left;
+    font-size: larger;
+    font-weight: 1000;
+   font-family: 'Lucida Grande';
+   font-style: oblique;
+}
+
+.projects:hover{
+    color: black;
+   text-decoration: underline ;color: black;
+}
+
+.aboutme{
+    color: rgb(245, 243, 247);
+    justify-content: left;
+    font-size: larger;
+    font-weight: 1000;
+   font-family: 'Lucida Grande';
+   font-style: oblique;
+}
+
+.aboutme:hover{
+    color: black;
+    text-decoration: underline ;color: black;
+}
+
+.contact{
+    color: rgb(245, 243, 247);
+    justify-content: left;
+    font-size: larger;
+    font-weight: 1000;
+   font-family: 'Lucida Grande';
+   font-style: oblique;
+}
+
+.contact:hover{
+    color: black;
+    text-decoration: underline ;color: black;
+}
+
+.helloyou{
+     font-size: larger;
+     font-weight: 1000;
+    font-family: 'Lucida Grande';
+    font-style: oblique;
+    justify-content: center;
+    height: 500px;
+    width: 100%;
+    background-color: rgba(240, 248, 255, 0);
+    margin: 0;
+    align-content: center;
+    text-align: center;
+    vertical-align: middle;
+    
+}
+
+.iam{
+    font-size: larger;
+    font-weight: 1000;
+   font-family: 'Lucida Grande';
+   font-style: oblique;
+   justify-content: center;
+   height: 200px;
+    
+}
+
+.scroll{
+    font-size: larger;
+    font-weight: 1000;
+   font-family: 'Lucida Grande';
+   font-style: oblique;
+   justify-content: center;
+   height: 200px;
+}
